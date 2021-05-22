@@ -1,0 +1,7 @@
+body {
+  padding: 20px;
+  background-color: black;
+  color: white;
+  background-image: linear-gradient(black, #0f0f0f);
+  font-family: Poppins;
+}
