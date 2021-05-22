@@ -1,0 +1,18 @@
+{
+  "name": "KopkeAPI-Server",
+  "version": "1.0.0",
+  "description": "KopkeAPI'nin server tarafı.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "eris": "^0.15.1",
+    "fs": "^0.0.2",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT"
+}
